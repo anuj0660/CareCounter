@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareCounter Pharmacy
 
 Medical shop website built with React 18, Vite and Tailwind CSS 3.
@@ -31,3 +32,6 @@ npm run build    # production build in dist/
 - The admin passcode (`admin123`, or `VITE_ADMIN_PASSCODE` in a `.env` file) is visible in the browser bundle. Use a real backend login.
 - Products are saved in this browser only. Move `useProducts.js` to API calls plus a database.
 - Orders only reduce local stock. Add order storage, payment and prescription upload on the server.
+=======
+# CareCounter
+>>>>>>> dff42476e996d0ce9248e1f4a9b99a4a6f5b5ee3
